@@ -4,96 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f85fa742-5dfc-4658-95d5-21e4f385f3c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_13_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_13_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_13_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_13_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_13_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_13_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_6_2_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_31_1_jre.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_4_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_12_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_3_12_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_4_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_csveed_csveed_0_7_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_javax_el_3_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_7_0_5_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_28_0_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_24.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reflections_reflections_0_10_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_simple_2_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_39_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_system.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/knubisoft/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/knubisoft/command/Cd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/knubisoft/command/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/knubisoft/command/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/knubisoft/command/Help.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/knubisoft/command/Ls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/knubisoft/command/LsTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/knubisoft/command/Mkdir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/knubisoft/command/Mkfile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/knubisoft/command/Pwd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/knubisoft/command/Read.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/knubisoft/command/Rmdir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/knubisoft/command/Rmfile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/knubisoft/command/Write.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/knubisoft/Main$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/knubisoft/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/knubisoft/command/Cd.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/knubisoft/command/Command.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/knubisoft/command/Context.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/knubisoft/command/Help.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/knubisoft/command/Ls.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/knubisoft/command/LsTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/knubisoft/command/Mkdir.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/knubisoft/command/Mkfile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/knubisoft/command/Pwd.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/knubisoft/command/Read.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/knubisoft/command/Rmdir.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/knubisoft/command/Rmfile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/knubisoft/command/Write.class" afterDir="false" />
+    <list default="true" id="f85fa742-5dfc-4658-95d5-21e4f385f3c5" name="Changes" comment="File manager Training">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/knubisoft/command/Help.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/knubisoft/command/Help.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/knubisoft/command/LsTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/knubisoft/command/LsTree.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -225,6 +150,14 @@
       <option name="presentableId" value="Default" />
       <updated>1662317056550</updated>
     </task>
+    <task id="LOCAL-00001" summary="File manager Training">
+      <created>1662567934668</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662567934668</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,6 +170,25 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="File manager Training" />
+    <option name="LAST_COMMIT_MESSAGE" value="File manager Training" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
