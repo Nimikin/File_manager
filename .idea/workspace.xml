@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f85fa742-5dfc-4658-95d5-21e4f385f3c5" name="Changes" comment="File manager Training">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/knubisoft/command/Help.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/knubisoft/command/Help.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/knubisoft/command/LsTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/knubisoft/command/LsTree.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +55,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Java/Projects/file_system",
-    "settings.editor.selected.configurable": "project.propVCSSupport.Confirmation"
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -157,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662567934668</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="File manager Training">
+      <created>1662569089074</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662569089074</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
